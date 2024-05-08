@@ -1,0 +1,7 @@
+{
+  "books": [
+    {"title": "Python Crash Course", "author": "Eric Matthes", "price": 25},
+    {"title": "Automate the Boring Stuff with Python", "author": "Al Sweigart", "price": 20},
+    {"title": "Fluent Python", "author": "Luciano Ramalho", "price": 30}
+  ]
+}
